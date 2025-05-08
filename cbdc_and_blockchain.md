@@ -1,0 +1,1 @@
+for cbdc to be globally adopted it needs to be in a form of a blockhain? otherwise how would you verify all nodes as milions of POS for examples. Or would the banks be responsible for verifying transacitons? But then bank could be vunerable and poison entire system - do global verifcatoin will be required.
